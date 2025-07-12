@@ -60,7 +60,7 @@ Even if a model performs well on a test split, **cross-validation** ensures **ro
 
 ## Results Summary
 
-### Direct Evaluation Scores
+### Evaluation Scores
 
 | Model                   | MAE    | MSE    | RMSE  | R²     | Adjusted R² |
 |------------------------|--------|--------|-------|--------|-------------|
