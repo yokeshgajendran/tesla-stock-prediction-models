@@ -1,4 +1,4 @@
-# esla Stock Price Prediction : A Comparison of Predictive Models
+# Tesla Stock Price Prediction : A Comparison of Predictive Models
 
 This project focuses on comparing three machine learning regression models — **Multiple Linear Regression**, **Decision Tree Regressor**, and **Random Forest Regressor** to identify the most effective model for predicting **Tesla's stock closing price**.
 
